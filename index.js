@@ -1,4 +1,4 @@
-console.log('hello world');
+console.log('Hello world');
 function addFunc() {
    console.log(5+10); 
 } 
